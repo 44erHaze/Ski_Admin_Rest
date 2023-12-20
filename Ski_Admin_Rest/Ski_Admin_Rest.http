@@ -1,0 +1,6 @@
+@Ski_Admin_Rest_HostAddress = http://localhost:5058
+
+GET {{Ski_Admin_Rest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
